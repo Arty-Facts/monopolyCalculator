@@ -1,6 +1,6 @@
 # Monopoly Calculator
 
-### This script plots the probobility of the dice landing on a specific tile. this is not bounded by a single thow.
+### This script plots the probobility of the dice landing on a specific tile. this is not bounded by a single thow (the bars are independent of each other).
 
 ![](result.png)
 
